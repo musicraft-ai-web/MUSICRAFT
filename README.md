@@ -1,2 +1,2 @@
 # MUSICRAFT
-Musicraft.ai[Musicraft.ai]
+[Musicraft.ai](https://www.musicraft.ai)
